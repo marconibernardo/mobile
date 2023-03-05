@@ -1,0 +1,39 @@
+inherited Form1_NmXhdpiPh: TForm1_NmXhdpiPh
+  BiDiMode = bdRightToLeft
+  Caption = 'dados pessoais'
+  ClientHeight = 615
+  ClientWidth = 400
+  FormStyle = Normal
+  DesignerMasterStyle = 3
+  inherited Button1: TButton
+    StyledSettings = [Size, FontColor]
+    Position.Y = 544.000000000000000000
+    Text = 'Entrar'
+    TextSettings.Font.Family = 'Times New Roman'
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    TintColor = claYellowgreen
+  end
+  inherited Button2: TButton
+    StyledSettings = [Size, FontColor]
+    Position.X = 264.000000000000000000
+    Position.Y = 544.000000000000000000
+    Text = 'Sair'
+    TextSettings.Font.Family = 'Times New Roman'
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    TintColor = claTomato
+  end
+  inherited Switch1: TSwitch
+    Position.Y = 424.000000000000000000
+  end
+  inherited Label1: TLabel
+    Position.Y = 427.000000000000000000
+  end
+  inherited Memo1: TMemo
+    Viewport.Width = 201.000000000000000000
+    Viewport.Height = 25.000000000000000000
+  end
+  inherited Memo2: TMemo
+    Viewport.Width = 201.000000000000000000
+    Viewport.Height = 25.000000000000000000
+  end
+end

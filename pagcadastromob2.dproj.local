@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/02/22 12:52:17.153,=B:\Portifolio DELPHI\Unit1.pas</Transaction>
+    <Transaction>2023/02/22 13:24:01.923,B:\Portifolio DELPHI\Mobile\pagcadastro.fmx=B:\Portifolio DELPHI\Unit1.fmx</Transaction>
+    <Transaction>2023/02/22 13:24:01.923,B:\Portifolio DELPHI\Mobile\pagcadastro.pas=B:\Portifolio DELPHI\Unit1.pas</Transaction>
+    <Transaction>2023/02/22 13:24:17.749,B:\Portifolio DELPHI\Mobile\pagcadastromob2.dproj=B:\Portifolio DELPHI\Project2.dproj</Transaction>
+  </Transactions>
+  <ActiveMobileDevice>   <NoProfile Android="525b4b17" Android64="525b4b17"/>
+  </ActiveMobileDevice>
+</BorlandProject>
